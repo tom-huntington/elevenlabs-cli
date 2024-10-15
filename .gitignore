@@ -1,0 +1,7 @@
+*.m4a
+*.txt
+*.wav
+test_semi.py
+*.mp3
+.vscode
+.env
